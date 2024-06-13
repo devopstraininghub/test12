@@ -1,13 +1,14 @@
 GIT 
 --------
 What is GIT?
-Installing Git for Windows and Basic Commands Overview
+Installing Git and Basic Git Commands Overview
+Diff b/w Git and GItHub
 Diff b/w Git and SVN
 Git stages
 Git Branches 
 Git Branching strategy 
-Git merge and rebase
-Renaming and Moving Files & Deleting Files 
+Git merge and Git rebase
+Baisc Linux commands for Git Practice 
 Git Repository Setup
 Git push, pull and fetch
 Git Stash
